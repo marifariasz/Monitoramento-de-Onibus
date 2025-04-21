@@ -63,10 +63,7 @@ Este sistema embarcado simula um painel de controle para monitoramento de transp
    - Joystick (EIXO_Y) ao pino 26 (ADC0).
 
 2. **Ambiente de Software**:
-   - Clone o repositório:
-     ```bash
-     git clone <URL_DO_REPOSITORIO>
-     ```
+   - Clone o repositório.
    - Configure o Pico SDK no ambiente de desenvolvimento.
    - Copie os arquivos `ws2818b.pio` e `inc/ssd1306.h` para o projeto.
 
@@ -145,4 +142,4 @@ Este projeto é distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` pa
 
 ---
 
-**Desenvolvido com 💖 para entusiastas de eletrônica e IoT!**
+**Desenvolvido com 💖 por Mariana Farias da Silva**
