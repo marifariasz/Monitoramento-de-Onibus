@@ -115,31 +115,4 @@ Este sistema embarcado simula um painel de controle para monitoramento de transp
 
 ---
 
-## ⚠️ Notas
-
-- **Simulação**: Distância e tempo são simulados via ADC (joystick, pino 26). Para uso real, integre sensores.
-- **Limitações**:
-  - Apenas 5 dígitos (0–4) na matriz; EIXO_X (pino 27) não usado.
-  - Comando '@' (botão A) definido, mas não processado.
-- **Melhorias**:
-  - Adicione sensores reais (ex.: GPS para distância).
-  - Expanda padrões da matriz de LEDs.
-  - Ajuste o intervalo de debounce (250 ms) para maior responsividade.
-
----
-
-## 🎉 Contribuições
-
-Sinta-se à vontade para contribuir! 🚀
-- Reporte bugs ou sugira melhorias via **Issues**.
-- Envie **Pull Requests** com novas funcionalidades ou correções.
-
----
-
-## 📜 Licença
-
-Este projeto é distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para detalhes.
-
----
-
 **Desenvolvido com 💖 por Mariana Farias da Silva**
